@@ -22,7 +22,7 @@ To put all of this another way, I have two primary goals:
 
 I do my best work in asynchronous environments. I like being able to read or review documents during Deep Work time so that I can provide thoughtful feedback and comments. For non-urgent communication I prefer email over Slack because calm > chaos 🫠
 
-That doesn’t mean I hate meetings! I just prefer meetings to be for work that shouldn’t happen asynchronously. For instance, our 1:1s are sacred to me. They will happen every week (if I have to cancel I will provide as much heads up as possible, and provide a clear reason). Team brainstorming meetings are great—I love jamming together on stuff. Also great? Meetings to come to a decision that we couldn’t figure out asynchronously.
+That doesn’t mean I hate meetings! I just prefer meetings to be for work that shouldn’t happen asynchronously. For instance, our 1:1s are sacred to me. They will happen every week. If I have to cancel I will provide as much heads up as possible, and provide a clear reason. Team brainstorming meetings are great—I love jamming together on stuff. Also great? Meetings to come to a decision that we couldn’t figure out asynchronously.
 
 For synchronous meetings I prefer a clear agenda and outcomes, as well as a pre-read (if available).
 
