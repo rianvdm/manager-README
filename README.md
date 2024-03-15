@@ -40,7 +40,7 @@ That doesn’t mean I hate meetings! I just prefer meetings to be for work that 
 
 For synchronous meetings I prefer a clear agenda and outcomes, as well as a pre-read (if available).
 
-I might sometimes send emails during off-hours. It will usually be a relevant article I read, or a thought about a thing we’re doing next week. I have zero expectations that you will respond in off-hours. This is not some kind of test, I really do mean that.
+I might sometimes send emails during off-hours. It will usually be a relevant article I read, or a thought about a thing we’re doing next week. I have zero expectations that you will respond during off-hours. This is not some kind of test, I really do mean that.
 
 # Decision-Making Style
 
