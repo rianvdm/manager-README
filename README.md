@@ -22,7 +22,7 @@ To put all of this another way, I have two primary goals:
 
 I am a big believer in [Daniel Pink’s assertion](https://bookshop.org/a/89364/9781594484803) that people are ultimately motivated by _Autonomy_, _Mastery_, and _Purpose_. That’s why I believe in enabling empowered teams to make the best decisions they can make for the business and its customers based on high quality data.
 
-I see my role as a product leader to provide the product strategy, goals, and strategic context to teams. And then I trust the teams to come up with the best ways to accomplish those goals through the product. I am ultimately accountable for the outcomes of what we work on, so I remain intimately involved in the details and help guide with context and questions and suggestions.
+I see my role as a product leader to provide the product strategy, goals, and strategic context to teams. And then I trust teams to come up with the best ways to accomplish those goals through the product. I am ultimately accountable for the outcomes of what we work on, so I remain intimately involved in the details and help guide with context and questions and suggestions.
 
 If our goals or priorities are not clear, or if you feel like you’re lacking strategic context to do your job well, please let me know. Those are an essential components of our combined success, so none of that should ever be unclear.
 
