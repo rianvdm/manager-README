@@ -30,7 +30,7 @@ I might sometimes send emails during off-hours. It will usually be a relevant ar
 
 # Decision-Making Style
 
-I prefer _collaboration_ over _consensus_. It’s really important to me to have as many voices as possible heard when a decision needs to be made. Ultimately my guiding principle is that **decisions should be made by those closest to the data.** That means that I might ask questions, and ask for lots of other viewpoints, but I will mostly defer decisions to those know the situation best.
+I prefer _collaboration_ over _consensus_. It’s really important to me to have as much diverse input as possible when a decision needs to be made. Ultimately my guiding principle is that **decisions should be made by those closest to the data.** That means that I might ask questions, and ask for lots of other viewpoints, but I will mostly defer decisions to those know the situation best.
 
 In terms of frameworks, for larger projects I like to have a clear [DACI](/processes/daci.md).
 
