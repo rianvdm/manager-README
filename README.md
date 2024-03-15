@@ -72,3 +72,13 @@ If something is missing here, or if you have questions, or if you disagree with 
 * [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://bookshop.org/p/books/escaping-the-build-trap-how-effective-product-management-creates-real-value-melissa-perri/8138080?aid=89364&ean=9781491973790&listref=product-management-and-design&) by Melissa Perri
 * [Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts](https://bookshop.org/p/books/thinking-in-bets-making-smarter-decisions-when-you-don-t-have-all-the-facts-annie-duke/533966?aid=89364&ean=9780735216372&listref=business-and-growth&) by Annie Duke
 
+## A few newsletters I really like
+
+_Skipping some obvious ones (like Lenny) that everyone already subscribes to._
+
+* [Elena's Growth Scoop](https://elenaverna.substack.com/) by Elena Verna (Product-led growth, product-led sales, and career growth)
+* [MKT1 Newsletter](https://newsletter.mkt1.co/) by Emily Kramer (B2B marketing advice and guides)
+* [Links I Would Gchat You If We Were Friends](https://linksiwouldgchatyou.substack.com/) by Caitlin Dewey (the best and most interesting internet reading of the week)
+* [Dense Discovery](https://www.densediscovery.com/) by Kai Brach (design, tech, sustainability, urbanism, and more)
+* [Five things on Friday](https://buttondown.email/fivethingsonfriday) by James Whatley (more wonderful things to read)
+* (This is a new section so I'm adding as I go, expect a lot more over the next week...)
