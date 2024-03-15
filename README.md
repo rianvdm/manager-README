@@ -9,7 +9,7 @@ Ok, let’s get to it!
 
 # My Leadership Philosophy
 
-I believe that we do our best work in healthy, safe, fulfilling environments. That means that to me, the person will always more important than anything else that might be happening. I am here to be your partner. To listen, to coach, to help clarify with context, to take your feedback to heart, to figure out issues together, to provide guidance—all of it with the ultimate goal of making _you_ successful.
+I believe that we do our best work in healthy, safe, fulfilling environments. That means that to me, the person will always be more important than anything else that might be happening. I am here to be your partner. To listen, to coach, to help clarify with context, to take your feedback to heart, to figure out issues together, to provide guidance—all of it with the ultimate goal of making _you_ successful.
 
 When you are happy and successful, I know that our business and our customers will also be successful. If (well, _when_...) I fall short of this overall guiding principle please let me know right away. I want to hear that feedback and keep improving in this area. 
 
