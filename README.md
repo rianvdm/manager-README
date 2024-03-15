@@ -26,6 +26,8 @@ I see my role as a product leader to provide the product strategy (see [Collabor
 
 If our goals or priorities are not clear, or if you feel like you’re lacking strategic context to do your job well, please let me know. Those are an essential components of our combined success, so none of that should ever be unclear.
 
+I prefer the [W Planning framework to plan our work](https://elezea.com/2023/03/okr-alternatives-empowered-teams-w-planning-eos/) over top-down mandates.
+
 I prefer [time horizon priorities](https://github.com/rianvdm/pm-resources/blob/master/processes/nownextlater.md) over deadline-driven roadmaps. 
 
 I prefer [functional specifications that go deep on understanding the opportunity](https://github.com/rianvdm/pm-resources/blob/master/templates/product-plan.md) over “requirements” documents that jump straight into implementation details.
