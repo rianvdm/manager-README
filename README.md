@@ -74,7 +74,7 @@ If something is missing here, or if you have questions, or if you disagree with 
 
 ## A few newsletters I really like
 
-_Skipping some obvious ones (like Lenny) that everyone already subscribes to._
+_Skipping some obvious ones (like Lenny and Platformer) that everyone already subscribes to._
 
 * [Elena's Growth Scoop](https://elenaverna.substack.com/) by Elena Verna (Product-led growth, product-led sales, and career growth)
 * [MKT1 Newsletter](https://newsletter.mkt1.co/) by Emily Kramer (B2B marketing advice and guides)
