@@ -24,7 +24,7 @@ I am a big believer in [Daniel Pink’s assertion](https://bookshop.org/a/89364/
 
 I see my role as a product leader to provide the product strategy (see [Collaborative Product Strategy Development: A Case Study](https://elezea.com/2023/01/product-strategy-framework-process/)), goals, and strategic context to teams. And then I trust teams to come up with the best ways to accomplish those goals through the product. I am ultimately accountable for the outcomes of what we work on, so I remain intimately involved in the details and help guide with context and questions and suggestions.
 
-If our goals or priorities are not clear, or if you feel like you’re lacking strategic context to do your job well, please let me know. Those are an essential components of our combined success, so none of that should ever be unclear.
+If our goals or priorities are not clear, or if you feel like you’re lacking strategic context to do your job well, please let me know. Those are essential components of our combined success, so none of that should ever be unclear.
 
 I believe in matching strategy and process to team context, so I am not dogmatic about specific frameworks or ways of doing things. I like to understand where teams are at, codify what works well, and come up with possible improvements collaboratively with teams. But to get a general sense of where I’m at, here are some principles I like and have seen success with:
 
