@@ -78,7 +78,7 @@ _Skipping some obvious ones (like Lenny) that everyone already subscribes to._
 
 * [Elena's Growth Scoop](https://elenaverna.substack.com/) by Elena Verna (Product-led growth, product-led sales, and career growth)
 * [MKT1 Newsletter](https://newsletter.mkt1.co/) by Emily Kramer (B2B marketing advice and guides)
-* [Links I Would Gchat You If We Were Friends](https://linksiwouldgchatyou.substack.com/) by Caitlin Dewey (the best and most interesting internet reading of the week)
 * [Dense Discovery](https://www.densediscovery.com/) by Kai Brach (design, tech, sustainability, urbanism, and more)
+* [Links I Would Gchat You If We Were Friends](https://linksiwouldgchatyou.substack.com/) by Caitlin Dewey (the best and most interesting internet reading of the week)
 * [Five things on Friday](https://buttondown.email/fivethingsonfriday) by James Whatley (more wonderful things to read)
 * (This is a new section so I'm adding as I go, expect a lot more over the next week...)
