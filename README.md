@@ -28,7 +28,7 @@ If our goals or priorities are not clear, or if you feel like you’re lacking s
 
 # Communication Preferences
 
-I do my best work in asynchronous environments. I like being able to read or review documents during Deep Work time so that I can provide thoughtful feedback and comments. For non-urgent communication I prefer email over Slack because calm > chaos 🫠
+I do my best work in asynchronous environments. I like being able to read or review documents during Deep Work time so that I can provide thoughtful feedback and comments. For non-urgent communication I prefer email over Slack/Gchat because calm > chaos 🫠
 
 That doesn’t mean I hate meetings! I just prefer meetings to be for work that shouldn’t happen asynchronously. For instance, our 1:1s are sacred to me. They will happen every week. If I have to cancel I will provide as much heads up as possible, and provide a clear reason. Team brainstorming meetings are great—I love jamming together on stuff. Also great? Meetings to come to a decision that we couldn’t figure out asynchronously.
 
