@@ -26,6 +26,10 @@ I see my role as a product leader to provide the product strategy, goals, and st
 
 If our goals or priorities are not clear, or if you feel like you’re lacking strategic context to do your job well, please let me know. Those are an essential components of our combined success, so none of that should ever be unclear.
 
+I prefer [time horizon priorities](https://github.com/rianvdm/pm-resources/blob/master/processes/nownextlater.md) over deadline-driven roadmaps. 
+
+I prefer [functional specifications that go deep on understanding the opportunity](https://github.com/rianvdm/pm-resources/blob/master/templates/product-plan.md) over “requirements” documents that jump straight into implementation details.
+
 # Communication Preferences
 
 I do my best work in asynchronous environments. I like being able to read or review documents during Deep Work time so that I can provide thoughtful feedback and comments. For non-urgent communication I prefer email over Slack/Gchat because calm > chaos 🫠
