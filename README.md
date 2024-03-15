@@ -2,7 +2,7 @@
 
 Hi! My name is Rian van der Merwe ([blog & portfolio](https://elezea.com/), [LinkedIn](http://www.linkedin.com/in/rianvdm)), and I look forward to getting to know you. I am a Director of Product here at [], and I lead our []. **The purpose of this document is to summarize some of the values and principles I try to adhere to at work**. But we are human and this is a relationship not a contract, so I see it as a way to kick-start how we work together, not the end result.
 
-I also recognize that documents like these have been abused by managers in the past, so this is _not_ a way for me to excuse any bad behaviors. If you see me do something that is not reflective of these values, please call me out so that I can improve.
+I also recognize that documents like these can be abused by managers, so this is _not_ a way for me to excuse any bad behaviors. If you see me do something that is not reflective of these values, please call me out so that I can improve.
 
 Ok, let’s get to it!
 
@@ -17,6 +17,14 @@ To put all of this another way, I have two primary goals:
 
 * Make our customers and business successful, and
 * Build a happy team that loves the work we do
+
+# My Product Philosophy
+
+I am a big believer in [Daniel Pink’s assertion](https://bookshop.org/a/89364/9781594484803) that people are ultimately motivated by _Autonomy_, _Mastery_, and _Purpose_. That’s why I believe in enabling empowered teams to make the best decisions they can make for the business and its customers based on high quality data.
+
+I see my role as a product leader to provide the product strategy, goals, and strategic context to teams. And then I trust the teams to come up with the best ways to accomplish those goals through the product. I am ultimately accountable for the outcomes of what we work on, so I remain intimately involved in the details and help guide with context and questions and suggestions.
+
+If our goals or priorities are not clear, or if you feel like you’re lacking strategic context to do your job well, please let me know. Those are an essential components of our combined success, so none of that should ever be unclear.
 
 # Communication Preferences
 
