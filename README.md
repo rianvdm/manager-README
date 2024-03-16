@@ -71,6 +71,7 @@ If something is missing here, or if you have questions, or if you disagree with 
 * [Empowered: Ordinary People, Extraordinary Products](https://bookshop.org/p/books/empowered-ordinary-people-extraordinary-products-chris-jones/14688284?aid=89364&ean=9781119691297&listref=product-management-and-design&) by Marty Cagan and Chris Jones
 * [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://bookshop.org/p/books/escaping-the-build-trap-how-effective-product-management-creates-real-value-melissa-perri/8138080?aid=89364&ean=9781491973790&listref=product-management-and-design&) by Melissa Perri
 * [Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts](https://bookshop.org/p/books/thinking-in-bets-making-smarter-decisions-when-you-don-t-have-all-the-facts-annie-duke/533966?aid=89364&ean=9780735216372&listref=business-and-growth&) by Annie Duke
+* [No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model](https://bookshop.org/a/89364/9781683646686) by Richard Schwartz
 
 ## A few newsletters I really like
 
