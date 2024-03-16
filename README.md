@@ -76,10 +76,13 @@ If something is missing here, or if you have questions, or if you disagree with 
 
 _I am skipping some obvious ones (like Lenny and Platformer) that everyone already subscribes to._
 
-* [Elena's Growth Scoop](https://elenaverna.substack.com/) by Elena Verna (Product-led growth, product-led sales, and career growth)
+* [Department of Product](https://departmentofproduct.substack.com/) by Rich Holmes (latest product releases and industry news)
+* [Elena's Growth Scoop](https://elenaverna.substack.com/) by Elena Verna (product-led growth, product-led sales, and career growth)
 * [MKT1 Newsletter](https://newsletter.mkt1.co/) by Emily Kramer (B2B marketing advice and guides)
+* [The Leading Sapiens Weekly](https://thelsweekly.substack.com/) by Sheril Mathew (product and technical leadership)
 * [Dense Discovery](https://www.densediscovery.com/) by Kai Brach (design, tech, sustainability, urbanism, and more)
 * [Links I Would Gchat You If We Were Friends](https://linksiwouldgchatyou.substack.com/) by Caitlin Dewey (the best and most interesting internet reading of the week)
 * [Five things on Friday](https://buttondown.email/fivethingsonfriday) by James Whatley (more wonderful things to read)
+* [Transfer Orbit](https://transfer-orbit.ghost.io/) by Andrew Liptak (my favorite newsletter about newsletter about science fiction, writing, and the future)
+* [Read More Books](https://www.readmorebooks.co/) by Jeremy Anderberg (book reviews, author interviews, bookish news and lists, and more)
 * [Garbage Day](https://www.garbageday.email/) by Ryan Broderick (the only way I try to stay up to date with internet culture)
-* (This is a new section so I'm adding as I go, expect a lot more over the next week...)
