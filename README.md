@@ -79,6 +79,7 @@ _I am skipping some obvious ones (like Lenny and Platformer) that everyone alrea
 * [Department of Product](https://departmentofproduct.substack.com/) by Rich Holmes (latest product releases and industry news)
 * [Elena's Growth Scoop](https://elenaverna.substack.com/) by Elena Verna (product-led growth, product-led sales, and career growth)
 * [MKT1 Newsletter](https://newsletter.mkt1.co/) by Emily Kramer (B2B marketing advice and guides)
+* [Attention Deficit Marketing Disorder](https://www.admdnewsletter.com/) by Mariya Delano (a newsletter about the emotions behind marketing work)
 * [The Leading Sapiens Weekly](https://thelsweekly.substack.com/) by Sheril Mathew (product and technical leadership)
 * [Dense Discovery](https://www.densediscovery.com/) by Kai Brach (design, tech, sustainability, urbanism, and more)
 * [Links I Would Gchat You If We Were Friends](https://linksiwouldgchatyou.substack.com/) by Caitlin Dewey (the best and most interesting internet reading of the week)
