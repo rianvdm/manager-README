@@ -54,11 +54,11 @@ I am extremely transparent with my teams (to a fault sometimes, I’ve been told
 
 My preferred framework for giving (and receiving) feedback is [The Accountability Dial](https://gregharrod.com/how-to-use-a-powerful-tool-the-accountability-dial/). You can read about it in more detail if you’d like, but the most important principle there is _The Mention_. It’s the first step and it means pulling someone aside to tell them something you’re noticing—as close to real-time as possible. This is, in my experience, the best way to deal with something quickly without it becoming a big deal with lots of festering feelings.
 
-I believe in kindness over everything else. I will never accept that it’s ok to give feedback in a way that is disrespectful of the people around us. That [doesn’t mean that I don’t know how to be decisive](https://elezea.com/2024/03/on-kindness-and-decisiveness/).
+I believe in kindness over everything else. I will never accept that it’s ok to give feedback in a way that is disrespectful to the people around us. That [doesn’t mean that I don’t know how to be decisive](https://elezea.com/2024/03/on-kindness-and-decisiveness/).
 
 # Conclusion
 
-If something is missing here, or if you have questions, or if you disagree with anything you read here... I would love to hear about it. I’m serious. This is on Github (and not a PDF) for a reason. It’s a living document. It evolves as we get to know each other.
+If something is missing here, or if you have questions, or if you disagree with anything you read... I would love to hear about it. I’m serious. This is on Github (and not a PDF) for a reason. It’s a living document. It evolves as we get to know each other.
 
 # Addendum
 
