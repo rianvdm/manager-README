@@ -81,6 +81,7 @@ _I am skipping some obvious ones (like Lenny and Platformer) that everyone alrea
 * [MKT1 Newsletter](https://newsletter.mkt1.co/) by Emily Kramer (B2B marketing advice and guides)
 * [Attention Deficit Marketing Disorder](https://www.admdnewsletter.com/) by Mariya Delano (a newsletter about the emotions behind marketing work)
 * [The Leading Sapiens Weekly](https://thelsweekly.substack.com/) by Sheril Mathew (product and technical leadership)
+* [Culture Study](https://annehelen.substack.com/) by Anne Helen Petersen (fascinating essays about broad topics related to the culture around us)
 * [Dense Discovery](https://www.densediscovery.com/) by Kai Brach (design, tech, sustainability, urbanism, and more)
 * [Links I Would Gchat You If We Were Friends](https://linksiwouldgchatyou.substack.com/) by Caitlin Dewey (the best and most interesting internet reading of the week)
 * [Five things on Friday](https://buttondown.email/fivethingsonfriday) by James Whatley (more wonderful things to read)
