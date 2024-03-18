@@ -33,7 +33,7 @@ I believe in matching strategy and process to team context, so I am not dogmatic
 * I prefer [functional specifications that go deep on understanding the opportunity](https://github.com/rianvdm/pm-resources/blob/master/templates/product-plan.md) over “requirements” documents that jump straight into implementation details.
 
 
-### Some blog posts that go deeper into certain aspects of my product philosophy
+### Some blog posts that go deeper into certain aspects of my product philosophy:
 
 * [Collaborative Product Strategy Development: A Case Study](https://elezea.com/2023/01/product-strategy-framework-process/)
 * [There’s more to life than OKRs: using EOS and W Planning for effective goal-setting in empowered teams](https://elezea.com/2023/03/okr-alternatives-empowered-teams-w-planning-eos/)
