@@ -32,6 +32,16 @@ I believe in matching strategy and process to team context, so I am not dogmatic
 * I prefer [time horizon priorities](https://github.com/rianvdm/pm-resources/blob/master/processes/nownextlater.md) over deadline-driven roadmaps. 
 * I prefer [functional specifications that go deep on understanding the opportunity](https://github.com/rianvdm/pm-resources/blob/master/templates/product-plan.md) over “requirements” documents that jump straight into implementation details.
 
+
+### Some blog posts that go deeper into certain aspects of my product philosophy
+
+* [Collaborative Product Strategy Development: A Case Study](https://elezea.com/2023/01/product-strategy-framework-process/)
+* [There’s more to life than OKRs: using EOS and W Planning for effective goal-setting in empowered teams](https://elezea.com/2023/03/okr-alternatives-empowered-teams-w-planning-eos/)
+* [Why using a Now/Next/Later roadmap might be right for you](https://elezea.com/2024/02/why-using-a-now-next-later-roadmap-might-be-right-for-you/)
+* [How to spend your life force as a product manager](https://elezea.com/2023/05/product-life-force/)
+* [Product Management and The Fog of War](https://elezea.com/2023/03/product-management-and-the-fog-of-war/)
+
+
 # Communication Preferences
 
 I do my best work in asynchronous environments. I like being able to read or review documents during Deep Work time so that I can provide thoughtful feedback and comments. For non-urgent communication I prefer email over Slack/Gchat because calm > chaos 🫠
