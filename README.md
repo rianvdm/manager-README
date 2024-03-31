@@ -74,14 +74,14 @@ If something is missing here, or if you have questions, or if you disagree with 
 
 ## Books that have shaped my thinking
 
-* [Good Authority: How to Become the Leader Your Team Is Waiting for](https://bookshop.org/p/books/good-authority-how-to-become-the-leader-your-team-is-waiting-for-jonathan-raymond/15543866?aid=89364&ean=9781940858777&listref=leadership-and-culture&) by Jonathan Raymond
-* [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://bookshop.org/p/books/the-coaching-habit-say-less-ask-more-change-the-way-you-lead-forever-michael-bungay-stanier/17315881?aid=89364&ean=9780978440749&listref=leadership-and-culture&) by Michael Bungay Stanier
-* [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://bookshop.org/p/books/team-topologies-organizing-business-and-technology-teams-for-fast-flow-matthew-skelton/6459463?aid=89364&ean=9781942788812&listref=business-and-growth&) by Matthew Skelton, Manuel Pais, and Ruth Malan
-* [The Culture Map: Breaking Through the Invisible Boundaries of Global Business](https://bookshop.org/p/books/the-culture-map-breaking-through-the-invisible-boundaries-of-global-business-erin-meyer/9819985?aid=89364&ean=9781610392501&listref=leadership-and-culture&) by Erin Meyer
-* [Empowered: Ordinary People, Extraordinary Products](https://bookshop.org/p/books/empowered-ordinary-people-extraordinary-products-chris-jones/14688284?aid=89364&ean=9781119691297&listref=product-management-and-design&) by Marty Cagan and Chris Jones
-* [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://bookshop.org/p/books/escaping-the-build-trap-how-effective-product-management-creates-real-value-melissa-perri/8138080?aid=89364&ean=9781491973790&listref=product-management-and-design&) by Melissa Perri
-* [Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts](https://bookshop.org/p/books/thinking-in-bets-making-smarter-decisions-when-you-don-t-have-all-the-facts-annie-duke/533966?aid=89364&ean=9780735216372&listref=business-and-growth&) by Annie Duke
-* [No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model](https://bookshop.org/a/89364/9781683646686) by Richard Schwartz
+* [Good Authority: How to Become the Leader Your Team Is Waiting for](https://amzn.to/4akCRAj) by Jonathan Raymond
+* [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://amzn.to/4av90W9) by Michael Bungay Stanier
+* [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://amzn.to/4cAGx2p) by Matthew Skelton, Manuel Pais, and Ruth Malan
+* [The Culture Map: Breaking Through the Invisible Boundaries of Global Business](https://amzn.to/4adMP6E) by Erin Meyer
+* [Empowered: Ordinary People, Extraordinary Products](https://amzn.to/4cERoZi) by Marty Cagan and Chris Jones
+* [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://amzn.to/4cEnx31) by Melissa Perri
+* [Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts](https://amzn.to/3PKOZm1) by Annie Duke
+* [No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model](https://amzn.to/4cCRArM) by Richard Schwartz
 
 ## A few newsletters I really like
 
