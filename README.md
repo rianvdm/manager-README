@@ -96,6 +96,6 @@ _I am skipping some obvious ones (like Lenny and Platformer) that everyone alrea
 * [Dense Discovery](https://www.densediscovery.com/) by Kai Brach (design, tech, sustainability, urbanism, and more)
 * [Links I Would Gchat You If We Were Friends](https://linksiwouldgchatyou.substack.com/) by Caitlin Dewey (the best and most interesting internet reading of the week)
 * [Five things on Friday](https://buttondown.email/fivethingsonfriday) by James Whatley (more wonderful things to read)
-* [Transfer Orbit](https://transfer-orbit.ghost.io/) by Andrew Liptak (my favorite newsletter about newsletter about science fiction, writing, and the future)
+* [Transfer Orbit](https://transfer-orbit.ghost.io/) by Andrew Liptak (my favorite newsletter about science fiction, writing, and the future)
 * [Read More Books](https://www.readmorebooks.co/) by Jeremy Anderberg (book reviews, author interviews, bookish news and lists, and more)
 * [Garbage Day](https://www.garbageday.email/) by Ryan Broderick (the only way I try to stay up to date with internet culture)
