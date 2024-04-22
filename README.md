@@ -98,4 +98,4 @@ _I am skipping some obvious ones (like Lenny and Platformer) that everyone alrea
 * [Five things on Friday](https://buttondown.email/fivethingsonfriday) by James Whatley (more wonderful things to read)
 * [Transfer Orbit](https://transfer-orbit.ghost.io/) by Andrew Liptak (my favorite newsletter about science fiction, writing, and the future)
 * [Read More Books](https://www.readmorebooks.co/) by Jeremy Anderberg (book reviews, author interviews, bookish news and lists, and more)
-* [Garbage Day](https://www.garbageday.email/) by Ryan Broderick (the only way I try to stay up to date with internet culture)
+* [Garbage Day](https://www.garbageday.email/subscribe?ref=Qnv3etkdXe) by Ryan Broderick (the only way I try to stay up to date with internet culture)
