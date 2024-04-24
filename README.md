@@ -83,19 +83,4 @@ If something is missing here, or if you have questions, or if you disagree with 
 * [Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts](https://amzn.to/3PKOZm1) by Annie Duke
 * [No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model](https://amzn.to/4cCRArM) by Richard Schwartz
 
-## A few newsletters I really like
-
-_I am skipping some obvious ones (like Lenny and Platformer) that everyone already subscribes to._
-
-* [Department of Product](https://departmentofproduct.substack.com/) by Rich Holmes (latest product releases and industry news)
-* [Elena's Growth Scoop](https://elenaverna.substack.com/) by Elena Verna (product-led growth, product-led sales, and career growth)
-* [MKT1 Newsletter](https://newsletter.mkt1.co/) by Emily Kramer (B2B marketing advice and guides)
-* [Attention Deficit Marketing Disorder](https://www.admdnewsletter.com/) by Mariya Delano (a newsletter about the emotions behind marketing work)
-* [The Leading Sapiens Weekly](https://thelsweekly.substack.com/) by Sheril Mathew (product and technical leadership)
-* [Culture Study](https://annehelen.substack.com/) by Anne Helen Petersen (fascinating essays about broad topics related to the culture around us)
-* [Dense Discovery](https://www.densediscovery.com/) by Kai Brach (design, tech, sustainability, urbanism, and more)
-* [Links I Would Gchat You If We Were Friends](https://linksiwouldgchatyou.substack.com/) by Caitlin Dewey (the best and most interesting internet reading of the week)
-* [Five things on Friday](https://buttondown.email/fivethingsonfriday) by James Whatley (more wonderful things to read)
-* [Transfer Orbit](https://transfer-orbit.ghost.io/) by Andrew Liptak (my favorite newsletter about science fiction, writing, and the future)
-* [Read More Books](https://www.readmorebooks.co/) by Jeremy Anderberg (book reviews, author interviews, bookish news and lists, and more)
-* [Garbage Day](https://www.garbageday.email/subscribe?ref=Qnv3etkdXe) by Ryan Broderick (the only way I try to stay up to date with internet culture)
+For more books, newsletters, and blogs, see [my recommendations page](https://elezea.com/resources/recommendations/).
