@@ -28,9 +28,9 @@ If our goals or priorities are not clear, or if you feel like you’re lacking s
 
 I believe in matching strategy and process to team context, so I am not dogmatic about specific frameworks or ways of doing things. I like to understand how teams get things done, codify what works well, and come up with possible improvements collaboratively. But to get a general sense of where I’m at, here are some principles I like and have seen success with:
 
-* I prefer [collaborative _W Planning_](https://github.com/rianvdm/pm-resources/blob/master/processes/w-planning.md) over top-down mandates.
-* I prefer [time horizon priorities](https://github.com/rianvdm/pm-resources/blob/master/processes/nownextlater.md) over deadline-driven roadmaps. 
-* I prefer [functional specifications that go deep on understanding the opportunity](https://github.com/rianvdm/pm-resources/blob/master/templates/product-plan.md) over “requirements” documents that jump straight into implementation details.
+* I prefer [collaborative _W Planning_](https://github.com/rianvdm/pm-resources/blob/main/processes/w-planning.md) over top-down mandates.
+* I prefer [time horizon priorities](https://github.com/rianvdm/pm-resources/blob/main/processes/nownextlater.md) over deadline-driven roadmaps. 
+* I prefer [functional specifications that go deep on understanding the opportunity](https://github.com/rianvdm/pm-resources/blob/main/templates/product-plan.md) over “requirements” documents that jump straight into implementation details.
 
 
 ### Some blog posts that go deeper into certain aspects of my product philosophy:
