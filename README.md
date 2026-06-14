@@ -83,4 +83,4 @@ If something is missing here, or if you have questions, or if you disagree with 
 * [Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts](https://amzn.to/3PKOZm1) by Annie Duke
 * [No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model](https://amzn.to/4cCRArM) by Richard Schwartz
 
-For more books, newsletters, and blogs, see [my recommendations page](https://elezea.com/resources/recommendations/).
+For more books, newsletters, and blogs, see [my recommendations page](https://elezea.com/recommendations/).
